@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis
+# Bank-Loan-Analysis Using Sql and Power BI
 
 #_DASHBOARD 1:  SUMMARY_#
 
