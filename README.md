@@ -24,7 +24,7 @@ Good Loan:
 3.	Good Loan Funded Amount
 4.	Good Loan Total Received Amount
 
-Bad Loan
+Bad Loan:
 1.	Bad Loan Application Percentage
 2.	Bad Loan Applications
 3.	Bad Loan Funded Amount
