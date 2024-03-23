@@ -16,6 +16,8 @@ Average Debt-to-Income Ratio (DTI):  Evaluating the average DTI for our borrower
 
 
 Good Loan v Bad Loan KPI’s
+
+
 Good Loan:
 1.	Good Loan Application Percentage
 2.	Good Loan Applications
