@@ -1,6 +1,6 @@
 # Bank-Loan-Analysis
 
-_DASHBOARD 1:  SUMMARY_
+#_DASHBOARD 1:  SUMMARY_#
 
 Key Performance Indicators (KPIs) Requirements:
 
